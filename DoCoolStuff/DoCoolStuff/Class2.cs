@@ -8,5 +8,6 @@ namespace DoCoolStuff
 {
     public class Class2
     {
+        public string Property1 { get; set; }
     }
 }
