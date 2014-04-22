@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DoCoolStuff
 {
-    class Class2
+    public class Class2
     {
     }
 }
