@@ -12,13 +12,8 @@ namespace DoCoolStuff
       {
          get;
          set;
-      }
-<<<<<<< HEAD
+      }public string Property2
 
-      public string Property4
-=======
-      public string Property2
->>>>>>> iss53
       {
          get;
          set;
