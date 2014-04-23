@@ -10,6 +10,8 @@ namespace DoCoolStuff
     {
         static void Main(string[] args)
         {
+           Console.WriteLine("hotfix fix");
+           Console.ReadLine();
         }
     }
 }
