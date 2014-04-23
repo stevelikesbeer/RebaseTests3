@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace DoCoolStuff
 {
-    public class Class1
-    {
-        public string Property1 { get; set; }
-    }
+   public class Class1
+   {
+      public string Property1
+      {
+         get;
+         set;
+      }
+
+      public string Property4
+      {
+         get;
+         set;
+      }
+   }
 }
